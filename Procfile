@@ -1,1 +1,1 @@
-web: sh setup.sh && streamlit run graph.py
+web: gunicorn app:graph
