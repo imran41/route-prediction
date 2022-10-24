@@ -2,7 +2,7 @@ community==1.0.0b1
 matplotlib>=3.5.1
 networkx==2.8.4
 numpy==1.22.2
-pandas==3.0.0
+pandas==1.5.1
 python_louvain==0.16
 streamlit==1.13.0
 Flask==1.1.2
