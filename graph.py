@@ -1,4 +1,4 @@
-from tkinter import font
+#from tkinter import font
 import streamlit as st
 import networkx as nx
 import matplotlib.pyplot as plt
