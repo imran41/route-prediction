@@ -5,11 +5,5 @@ numpy==1.22.2
 pandas==1.5.1
 python_louvain==0.16
 streamlit==1.13.0
-Flask==1.1.2
-joblib==1.1.0
-gunicorn==20.1.0
-itsdangerous==2.0.1
-Jinja2==2.11.3
-MarkupSafe==2.0.1
-Werkzeug==2.0.3
-openpyxl==3.0.9
+
+
