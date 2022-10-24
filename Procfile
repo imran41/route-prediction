@@ -1,1 +1,1 @@
-web:streamlit run graph.py
+web: streamlit run graph.py
