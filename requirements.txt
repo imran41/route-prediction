@@ -5,5 +5,5 @@ numpy
 pandas
 python_louvain
 streamlit
-python
+Python
 
