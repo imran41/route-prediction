@@ -1,6 +1,9 @@
+community
 matplotlib
 networkx
 numpy
 pandas
+python_louvain
 streamlit
+
 
