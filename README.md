@@ -107,13 +107,11 @@ pipreqs /path/to/your/app/
 After this command, a requirements.txt will be created in the folder of your app
 
 ```
-community==1.0.0b1
-matplotlib>=3.5.1
-networkx==2.8.4
-numpy==1.22.2
-pandas==1.5.1
-python_louvain==0.16
-streamlit==1.13.0
+matplotlib==3.5.1
+networkx==2.8.7
+numpy==1.21.5
+pandas==1.4.2
+streamlit==1.14.0
 
 ```
 
